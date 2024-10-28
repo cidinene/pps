@@ -1,2 +1,3 @@
 # pps
-Repositorio para puesta en produccion segura
+Repositorio para puesta en produccion segura 
+Estamos en local
